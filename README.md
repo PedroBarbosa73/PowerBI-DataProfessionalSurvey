@@ -1,18 +1,18 @@
-Power BI – Data Professional Survey Breakdown
+Power BI - Data Professional Survey Breakdown
 
 This Power BI report analyzes data from a public survey of data professionals around the world. It explores demographics, career satisfaction, salary distribution, and preferred programming languages among data-related job roles.
 
 📊 Dashboard Overview
 
-•	🌍 Country of Survey Takers – Geographic distribution of participants.
+•	🌍 Country of Survey Takers - Geographic distribution of participants.
 
 •	💻 Favourite Programming Language – Breakdown of preferred coding languages by profession.
 
-•	💰 Average Salary by Job Title – Comparison of average salaries across different data roles (Data Scientist, Data Engineer, Data Analyst, etc.).
+•	💰 Average Salary by Job Title - Comparison of average salaries across different data roles (Data Scientist, Data Engineer, Data Analyst, etc.).
 
-•	⚖️ Happiness with Work-Life Balance & Salary – Average satisfaction ratings on a 1–10 scale.
+•	⚖️ Happiness with Work-Life Balance & Salary - Average satisfaction ratings on a 1–10 scale.
 
-•	👩‍💼 Average Salary by Gender – Gender-based salary comparison.
+•	👩‍💼 Average Salary by Gender - Gender-based salary comparison.
 
 
 🧩 Data Transformation
