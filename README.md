@@ -22,10 +22,8 @@ These transformations ensured accurate, consistent, and meaningful insights with
 •	Microsoft Power BI
 •	Power Query (for data transformation)
 •	Public Survey Dataset (Data Professionals Survey)
+
+
+
 📸 Dashboard Preview
 <img width="1157" height="645" alt="image" src="https://github.com/user-attachments/assets/3e1ce341-5d41-4263-acea-357b6598cbfa" />
-
-📂 Files
-•	DataProfessionalSurvey.pbix – main Power BI report
-•	survey_dataset.csv – cleaned dataset used for the dashboard
-
